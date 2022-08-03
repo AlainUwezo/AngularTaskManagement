@@ -1,0 +1,12 @@
+.add-task{
+    padding: 10px 12px 0px 20px;
+}
+.header{
+    background-color: #f3f5fa;
+}
+.header h1{
+    padding: 20px 12px 20px 12px;
+}
+mat-form-field{
+    width: 100%;
+}

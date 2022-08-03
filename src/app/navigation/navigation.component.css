@@ -1,0 +1,16 @@
+.navigation{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    border-top: 1px solid #ccc;
+    background-color: white;
+}
+button{
+    margin: 10px;
+}
+textarea{
+    height: 4000px!important;
+}
